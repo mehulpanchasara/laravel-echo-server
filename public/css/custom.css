@@ -1,0 +1,22 @@
+.btn-custom {
+    width: 100%;
+    border: 1px solid #ced4da;
+}
+
+.send-message-form {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#chat-list {
+    max-height: 70vh;
+    overflow-y: scroll;
+}
+
+p.message-self {
+    text-align: right;
+}
+
+p.message-others {
+    text-align: left;
+}
